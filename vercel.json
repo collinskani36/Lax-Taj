@@ -1,5 +1,5 @@
 {
   "buildCommand": "vite build",
-  "outputDirectory": "dist/client",
+  "outputDirectory": ".output/public",
   "framework": null
 }
